@@ -23,17 +23,14 @@
 ```text
 NAME       : Nityanand Kumar
 FIELD      : Electronics & Communication Engineering
-SPECIALITY : Avionics
 FOCUS      : VLSI | RTL Design | FPGA | Embedded Systems
-CURRENT    : Embedded & SoC Design Training — NIELIT Chennai
 ```
 
 - 🎓 B.Tech student at **Central University of Jammu**, specializing in Avionics.
-- ⚡ Developing digital systems using **Verilog HDL and Xilinx Vivado**.
+- ⚡ Developing digital systems using **Verilog HDL, SystemVerilog and Xilinx Vivado**.
 - 🔬 Learning RTL design, FPGA prototyping, and SoC development.
-- 📡 Interested in embedded firmware, digital electronics, and IoT solutions.
+- 📡 Interested in VLSI, embedded firmware, digital electronics and IoT solutions.
 - 🏭 Completed an IoT internship at **Emertxe**, working on a Smart Factory Monitoring System.
-- 🛰️ Exploring aerospace electronics and hardware–software integration.
 - 🤝 Branch Secretary, **IEEE Aerospace and Electronic Systems Society (AESS)**.
 
 ---
