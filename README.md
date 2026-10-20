@@ -22,8 +22,8 @@
 
 ```text
 NAME       : Nityanand Kumar
-FIELD      : Electronics & Communication Engineering
-FOCUS      : VLSI | RTL Design | FPGA | Embedded Systems
+FIELD      : ECE
+FOCUS      : VLSI | RTL Design | FPGA
 ```
 
 - 🎓 B.Tech student at **Central University of Jammu**, specializing in Avionics.
