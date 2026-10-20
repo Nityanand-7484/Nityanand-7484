@@ -7,7 +7,7 @@
 <a href="https://github.com/Nityanand-7484">
 <img src="https://img.shields.io/badge/GitHub-Nityanand--7484-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/nityanand-kumar-4b666843b/">
+<a href="https://www.linkedin.com/in/nityanand-kumr/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:nityanand.kumr@gmail.com">
