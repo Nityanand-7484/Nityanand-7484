@@ -18,7 +18,7 @@
 
 ---
 
-## `01` // SYSTEM PROFILE
+## SYSTEM PROFILE
 
 ```text
 NAME       : Nityanand Kumar
@@ -40,7 +40,7 @@ CURRENT    : Embedded & SoC Design Training — NIELIT Chennai
 
 
 
-## `03` // TECHNOLOGY MATRIX
+## TECHNOLOGY MATRIX
 
 <div align="center">
 
@@ -55,7 +55,7 @@ CURRENT    : Embedded & SoC Design Training — NIELIT Chennai
 
 ---
 
-## `04` // GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <div align="center">
 
@@ -84,7 +84,7 @@ CURRENT    : Embedded & SoC Design Training — NIELIT Chennai
 
 ---
 
-## `05` // ESTABLISH CONNECTION
+## ESTABLISH CONNECTION
 
 <div align="center">
 
