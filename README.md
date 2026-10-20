@@ -85,7 +85,7 @@ FOCUS      : VLSI | RTL Design | FPGA
 
 <div align="center">
 
-**Interested in digital design, embedded systems, FPGA development, and IoT.**
+**Interested in VLSI, digital design and FPGA development.**
 
 <a href="mailto:nityanand.kumr@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT_ME-00D4FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Contact me"/>
