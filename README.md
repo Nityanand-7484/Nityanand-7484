@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123B5D,100:00D4FF&height=220&section=header&text=NITYANAND%20KUMAR&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=RTL%20DESIGN%20%7C%20FPGA%20%7C%20EMBEDDED%20SYSTEMS&descSize=15&descAlignY=60" width="100%" alt="Animated engineering header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=%3E+Initializing+digital+systems...;%3E+Designing+RTL+with+Verilog+HDL;%3E+Exploring+FPGA+%26+SoC+Development;%3E+Connecting+Embedded+Systems+%26+IoT;%3E+Engineering+ideas+into+reality." alt="Animated engineering status" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=%3E+Initializing+digital+systems...;%3E+Designing+RTL+with+Verilog+HDL;%3E+Exploring+FPGA+%26+SoC+Development;%3E+Engineering+ideas+into+reality." alt="Animated engineering status" width="100%"/>
 
 <a href="https://github.com/Nityanand-7484">
 <img src="https://img.shields.io/badge/GitHub-Nityanand--7484-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub"/>
